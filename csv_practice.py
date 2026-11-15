@@ -1,5 +1,14 @@
-print("---exercise 2---")
+print("Name: Lojien Abdellatif")
+print("Date: 2024-06-10")
+print("Course: ISM2411")
 
+#self reflection
+#1: I think that the process in python is much quicker,
+#excel can do the same thing but after hours and struggles, but with one like python can add a whole new collumn and do the math 
+#2: I think a business that could benefit from append mode is a retail store, they can log their sales and revenue at the end of the day and keep track of their progress over time.
+
+
+print("---exercise 2---")
 import csv 
 from datetime import datetime
 SALES_FILE= "data/sales.csv"
